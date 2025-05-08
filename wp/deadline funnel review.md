@@ -32,7 +32,7 @@ cookies, and some clever “secret sauce”). This means no cheating; once a dea
 a “sorry, you missed it” page. It integrates seamlessly with tools like ClickFunnels, Teachable, and Mailchimp, making it a favorite among 
 digital marketers since its debut over a decade ago.
 
-![Deadline Funnel Review](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20review.png)
+![Deadline Funnel Review](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20funnel%20review.png)
 
 ## Key Features of Deadline Funnel
 
@@ -62,14 +62,14 @@ Get real-time stats on leads, timer views, and conversions. It’s not as deep a
 
 For a deeper dive into how these features work in practice, the DigiExe review (linked here) offers a great marketer’s perspective.
 
-![Deadline Funnel Features](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20subscription.png)
+![Deadline Funnel Features](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20funnel%20subscription.png)
 
 ## Deadline Funnel Pricing: Is It Worth the Cost?
 As of today, Deadline Funnel’s pricing tiers are tailored to various operational scales. 
 
 Here’s the breakdown:
 
-![Deadline Funnel Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20subscription.png) (https://www.crowdmob.com/recommends/deadlinefunnel/)
+![Deadline Funnel Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20pricing.png) (https://www.crowdmob.com/recommends/deadlinefunnel/)
 
 ### Start Plan: $49/month
 - 3 campaigns, 1,000 leads/month, basic timers.

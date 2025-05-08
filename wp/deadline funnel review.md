@@ -141,7 +141,7 @@ A/B testing with and without timers consistently shows 23x conversion lifts.
 
 ## Final Verdict: Is the Deadline Funnel Worth It?
 
-Deadline Funnel(https://www.crowdmob.com/recommends/deadlinefunnel/) isn’t cheap, but it’s a precision tool that delivers. It's unbeatable timers, seamless integrations, 
+[Deadline Funnel] (https://www.crowdmob.com/recommends/deadlinefunnel/)isn’t cheap, but it’s a precision tool that delivers. It's unbeatable timers, seamless integrations, 
 and ease of use make it a standout for serious marketers and devs alike.
 I’d say it’s a solid investment if your funnel’s already converting. Think of it as the turbocharger, not the engine.
 

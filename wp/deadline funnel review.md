@@ -69,7 +69,7 @@ As of today, Deadline Funnel’s pricing tiers are tailored to various operation
 
 Here’s the breakdown:
 
-![Deadline Funnel Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20pricing.png) (https://www.crowdmob.com/recommends/deadlinefunnel/)
+![Deadline Funnel Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20pricing.png)(https://www.crowdmob.com/recommends/deadlinefunnel/)
 
 ### Start Plan: $49/month
 - 3 campaigns, 1,000 leads/month, basic timers.
@@ -100,9 +100,9 @@ I’d rate it 4.5/5. It’s not perfect (more on that later), but it’s a game-
 
 | Pros of Deadline Funnel                          | Cons of Deadline Funnel                          |
 |--------------------------------------------------|--------------------------------------------------|
-| **Authentic Scarcity**: No fake timers here. Once it’s done, it’s done, building trust with your audience. | **Pricey**: $49/month for 3 campaigns is a hurdle for bootstrappers. Thrive Ultimatum’s onetime fee looks tempting by comparison. |
+| **Authentic Scarcity**: No fake timers here. Once it’s done, it’s done, building trust with your audience. | **Pricey**: $49/month for 3 campaigns is a hurdle for bootstrappers. Thrive Ultimatum’s one-time fee looks tempting by comparison. |
 | **Ease of Use**: Intuitive interface and blueprints make it accessible, even for GitHub devs new to marketing. | **Load Time**: Timers take as fast as 12 seconds to render |
-| **Customization**: Match timers to your brand’s colors and fonts, which are crucial for a polished look. | **Limited Dynamic Text**: You’re stuck with one deadline format per campaign more flexibility would be nice. |
+| **Customization**: Match timers to your brand’s colors and fonts, which are crucial for a polished look. | **Limited Dynamic Text**: You’re stuck with one deadline format per campaign, more flexibility would be nice. |
 | **Integration Power**: Hooks into almost any stack, from WordPress to custom GitHub projects. | |
 | **Support**: Fast, friendly responses via chat or email. | The DigiExe review echoes some of these gripe |
 
@@ -141,12 +141,10 @@ A/B testing with and without timers consistently shows 23x conversion lifts.
 
 ## Final Verdict: Is the Deadline Funnel Worth It?
 
-Deadline Funnel isn’t cheap, but it’s a precision tool that delivers. Its uncheatable timers, seamless integrations, 
+Deadline Funnel(https://www.crowdmob.com/recommends/deadlinefunnel/) isn’t cheap, but it’s a precision tool that delivers. It's unbeatable timers, seamless integrations, 
 and ease of use make it a standout for serious marketers and devs alike.
 I’d say it’s a solid investment if your funnel’s already converting. Think of it as the turbocharger, not the engine.
 
  The 14-day trial’s risk-free set up a quick campaign and watch the magic happen. 
  Got thoughts or results to share? Drop a comment below or ping me on GitHub I’d love to hear how it works for you! 
  
- [![image](https://github.com/user-attachments/assets/ead2dd73-710a-446a-83a8-f52a1d7c65ce)
-](https://www.crowdmob.com/recommends/deadlinefunnel/)

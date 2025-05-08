@@ -18,7 +18,7 @@ It might be the ideal solution for your website.
 
 ## What is Cloudways?
 
-![Cloudways Review](https://github.com/digiexe-official/Reviews/blob/main/imgs/cloudways/cloudways%20review.png)
+![Cloudways Review](https://github.com/digiexe-official/dg/blob/main/imgs/cloudways/cloudways%20review.png)
 
 Cloudways is a **managed cloud hosting platform** that enables users to host websites and applications on top of cloud infrastructure providers like 
 **Amazon Web Services (AWS)**, **Google Cloud**, **DigitalOcean**, **Linode**, and **Vultr**. Unlike traditional shared hosting, Cloudways provides a more scalable and reliable 
@@ -34,7 +34,7 @@ Cloudways takes care of all these for you, so you can focus on growing your busi
 Cloudways offers a flexible pay-as-you-go pricing model, which means you only pay for the resources you actually use. Unlike traditional hosting services with 
 fixed pricing plans, Cloudways allows you to choose your cloud provider and resources based on your budget and needs. Here's a breakdown of how the pricing works:
 
-![Cloudways Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/cloudways/cloudways%20pricing.png)
+![Cloudways Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/cloudways/cloudways%20pricing.png)
 
 ## Cloudways Pricing Plans Comparison
 
@@ -70,7 +70,7 @@ And you can choose any cloud provider to get started.
 
 Cloudways offers an impressive set of features that distinguish it from traditional hosting services. Here's a detailed look at what Cloudways offers:
 
-![Cloudways Cloud Solutions](https://github.com/digiexe-official/Reviews/blob/main/imgs/cloudways/cloudways%20cloud%20solution.png)
+![Cloudways Cloud Solutions](https://github.com/digiexe-official/dg/blob/main/imgs/cloudways/cloudways%20cloud%20solution.png)
 
 ### 1. **Multiple Cloud Providers**
 

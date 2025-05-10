@@ -69,7 +69,7 @@ As of today, Deadline Funnel’s pricing tiers are tailored to various operation
 
 Here’s the breakdown:
 
-![Deadline Funnel Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20pricing.png)(https://www.crowdmob.com/recommends/deadlinefunnel/)
+![Deadline Funnel Pricing](https://github.com/digiexe-official/dg/blob/main/imgs/deadlinefunnel/deadline%20pricing.png)
 
 ### Start Plan: $49/month
 - 3 campaigns, 1,000 leads/month, basic timers.

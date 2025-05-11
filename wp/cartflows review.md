@@ -16,6 +16,8 @@ Perfect for courses, digital downloads, or physical products, CartFlows simplifi
 
 ## 🚀 What is CartFlows?
 
+![CartFlows Review](https://github.com/digiexe-official/dg/blob/main/imgs/cartflows/cartflows%20review.png)
+
 CartFlows is a powerful WordPress plugin that enhances the WooCommerce checkout experience and lets you build sales funnels right from your WordPress dashboard. 
 Packed with conversion-boosting features like one-click upsells, order bumps, and A/B testing, it integrates smoothly with top page builders such as Elementor, Divi, 
 and Beaver Builder. With CartFlows, you can fully customize funnels without any coding skills.
@@ -106,6 +108,7 @@ Since CartFlows is built for WooCommerce, it works seamlessly with all your WooC
 - **How it works**: CartFlows integrates directly with your existing WooCommerce setup, including inventory management, shipping options, and payment gateways.
 - **Benefits**: Leverage the power of WooCommerce’s eCommerce features with CartFlows’ funnel-building tools, making it easy to sell products and optimize the customer experience.
 
+[![Watch the CartFlows Review Video](https://img.youtube.com/vi/tCm60PWOd0M/0.jpg)](https://youtu.be/tCm60PWOd0M)
 
 ## 📝 Pros & Cons of CartFlows
 
@@ -115,7 +118,7 @@ Since CartFlows is built for WooCommerce, it works seamlessly with all your WooC
 | **One-Click Upsells & Downsells**: Increases average order value by offering upsell and downsell products with just one click. | **Limited Features in Free Version**: Many advanced features like A/B testing and upsells are only available in the Pro version. |
 | **Order Bumps**: Adds extra products or services during checkout, improving conversion rates. | **Advanced Features Only in Pro Plans**: Some of the more powerful features, such as A/B split testing and analytics, are locked behind premium plans. |
 | **Customizable Checkout Pages**: Customize the entire checkout process, including fields and layout, to match your branding. | **Page Builder Compatibility**: Though it works with major page builders, not all customizations are fully intuitive for some users. |
-| **Pre-built Funnel Templates**: A library of conversion-optimized templates for quick setup of sales funnels. | **Price**: The Pro version can be pricey for smaller stores, especially for users just starting out. |
+| **Pre-built Funnel Templates**: A library of conversion-optimized templates for quick setup of sales funnels. | **Price**: The Pro version can be pricey for smaller stores, especially for users just starting. |
 | **A/B Split Testing**: Run tests to optimize sales funnels based on data-driven results. | **Requires WooCommerce**: CartFlows works only with WooCommerce, so it’s not suitable if you’re using other eCommerce platforms. |
 | **Dynamic Offers**: Create personalized offers based on cart contents or customer behavior. | **Limited to WordPress**: CartFlows is a WordPress plugin, so it’s not usable for users on other website platforms. |
 | **Active Support & Community**: CartFlows has excellent customer support and a helpful user community. | **Requires WooCommerce Knowledge**: Since it integrates with WooCommerce, users should be familiar with WooCommerce to fully utilize CartFlows. |

@@ -16,7 +16,7 @@ Perfect for courses, digital downloads, or physical products, CartFlows simplifi
 
 ## 🚀 What is CartFlows?
 
-![CartFlows Review](https://github.com/digiexe-official/dg/blob/main/imgs/cartflows/cartflows%20review.png)
+![CartFlows Review](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/cartflows/cartflows%20review.png)
 
 CartFlows is a powerful WordPress plugin that enhances the WooCommerce checkout experience and lets you build sales funnels right from your WordPress dashboard. 
 Packed with conversion-boosting features like one-click upsells, order bumps, and A/B testing, it integrates smoothly with top page builders such as Elementor, Divi, 
@@ -25,6 +25,8 @@ and Beaver Builder. With CartFlows, you can fully customize funnels without any 
 [![Get Started with CartFlows Now](https://img.shields.io/badge/Start%20With%20CartFlows%20Now-brightgreen?style=for-the-badge)](https://www.bloggersideas.com/Recommended/cartflows/)
 
 ## 💰 CartFlows Pricing Plans
+
+![Cartflows Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/cartflows/cartflows%20pricing%20plans.png)
 
 | **Feature**                             | **CartFlows Plus** ($189/year) | **CartFlows Pro** ($299/year) | **CartFlows Pro – Lifetime** ($999) |
 |-----------------------------------------|--------------------------------|-------------------------------|-------------------------------------|
@@ -44,6 +46,8 @@ and Beaver Builder. With CartFlows, you can fully customize funnels without any 
 [![Get Started with CartFlows Now](https://img.shields.io/badge/Start%20With%20CartFlows%20Now-brightgreen?style=for-the-badge)](https://www.bloggersideas.com/Recommended/cartflows/)
 
 ## 🛠️ Features of CartFlows
+
+![Cartflows Features](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/cartflows/cartflows%20features.png)
 
 ### 1. One-Click Upsells & Downsells
 CartFlows makes it easy to increase the average order value with one-click upsells and downsells. After a customer completes their purchase, CartFlows lets you offer them additional products or services with a single click, without having to re-enter payment details. This feature helps drive more revenue from each customer, and it’s fully customizable to match your store’s offerings.
@@ -121,7 +125,42 @@ Since CartFlows is built for WooCommerce, it works seamlessly with all your WooC
 | **Pre-built Funnel Templates**: A library of conversion-optimized templates for quick setup of sales funnels. | **Price**: The Pro version can be pricey for smaller stores, especially for users just starting. |
 | **A/B Split Testing**: Run tests to optimize sales funnels based on data-driven results. | **Requires WooCommerce**: CartFlows works only with WooCommerce, so it’s not suitable if you’re using other eCommerce platforms. |
 | **Dynamic Offers**: Create personalized offers based on cart contents or customer behavior. | **Limited to WordPress**: CartFlows is a WordPress plugin, so it’s not usable for users on other website platforms. |
-| **Active Support & Community**: CartFlows has excellent customer support and a helpful user community. | **Requires WooCommerce Knowledge**: Since it integrates with WooCommerce, users should be familiar with WooCommerce to fully utilize CartFlows. |
+| **Active Support & Community**: CartFlows has excellent customer support and a helpful user community. | **Requires WooCommerce Knowledge**: Since it integrates with WooCommerce, users should be familiar with WooCommerce to utilize CartFlows fully. |
+
+## 🤔 Frequently Asked Questions (FAQs) about CartFlows
+
+### 1. **What is CartFlows?**
+CartFlows is a WordPress plugin that enhances the WooCommerce checkout experience. It allows you to create high-converting sales funnels with features like one-click upsells, order bumps, and customizable checkout pages.
+
+### 2. **Do I need WooCommerce to use CartFlows?**
+Yes, CartFlows is built specifically for WooCommerce, so you need to have WooCommerce installed on your WordPress website to use CartFlows.
+
+### 3. **Is CartFlows easy to set up?**
+CartFlows is fairly easy to set up, especially with its pre-built templates and integration with popular page builders like Elementor. However, beginners might need some time to familiarize themselves with funnel creation and optimization.
+
+### 4. **Can I use CartFlows with my current theme?**
+Yes, CartFlows is compatible with most WordPress themes, but it works especially well with themes designed for WooCommerce and page builders like Elementor, Divi, and Beaver Builder.
+
+### 5. **Does CartFlows offer any support?**
+Yes, CartFlows offers excellent customer support through their help desk, documentation, and user community. The Pro version includes priority support for faster resolutions.
+
+### 6. **Can I recover abandoned carts with CartFlows?**
+Yes, CartFlows has built-in cart abandonment recovery features, allowing you to send automated follow-up emails to customers who didn’t complete their purchase.
+
+### 7. **What is the pricing of CartFlows?**
+CartFlows offers several pricing options:
+- **CartFlows Plus**: $189/year
+- **CartFlows Pro**: $299/year
+- **CartFlows Pro Lifetime**: $999 (one-time payment)
+
+### 8. **Is there a free version of CartFlows?**
+Yes, CartFlows offers a free version with basic features to help you build funnels. However, the Pro version unlocks advanced features like A/B testing, upsells, and detailed analytics.
+
+### 9. **Can I create funnels with CartFlows?**
+Yes, CartFlows allows you to create full sales funnels, including landing pages, checkout pages, thank you pages, and upsell/downsell offers.
+
+### 10. **Does CartFlows integrate with other plugins?**
+CartFlows integrates seamlessly with WooCommerce and works with other popular plugins like Elementor, Divi, and Beaver Builder. It also supports email marketing integrations to automate your funnels.
 
 **Quick Links**
 - [Jungle Scout Review](https://digiexe-official.github.io/dg/jungle-scout-review/)
@@ -130,9 +169,13 @@ Since CartFlows is built for WooCommerce, it works seamlessly with all your WooC
 
 ## Conclusion- Why Cartflows is #1 Sales Funnel Builder to Increase Conversions & Maximize Profits?
 
+![Cartflows Free Trial](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/cartflows/cartflows%20free%20trial.png)
+
 CartFlows is an essential tool for WooCommerce users looking to build high-converting sales funnels. With powerful features like one-click upsells, order bumps, 
-and customizable checkout pages, it helps increase revenue and improve the customer experience. While it may have a learning curve for beginners and advanced features 
-are locked behind the Pro plan, CartFlows offers excellent value for anyone serious about boosting their online store's performance. It’s a must-have for optimizing your 
+and customizable checkout pages, it helps increase revenue and improve the customer experience. 
+
+While it may have a learning curve for beginners, it has advanced features that 
+are locked behind the Pro plan. CartFlows offers excellent value for anyone serious about boosting their online store's performance. It’s a must-have for optimizing your 
 eCommerce business.
 
 [![Get Started with CartFlows Now](https://img.shields.io/badge/Start%20With%20CartFlows%20Now-brightgreen?style=for-the-badge)](https://www.bloggersideas.com/Recommended/cartflows/)

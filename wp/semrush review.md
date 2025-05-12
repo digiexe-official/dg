@@ -54,14 +54,14 @@ SEMrush is a powerful, all-in-one digital marketing platform that equips markete
 
 Here’s a closer look at SEMrush’s core capabilities:
 
-![Semrush Features](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/semrush/semrush%20features.png)
+![Semrush Features](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/semrush/semrush%20free%20trial.png)
 
 ### 1. SEO Tools: Elevate Your Search Engine Performance
 
 SEMrush’s robust SEO toolkit helps you optimize your website, uncover high-value keywords, and outrank competitors. Key features include:
 
 - **Keyword Research**: Discover high-impact keywords with SEMrush’s Keyword Magic Tool, which provides metrics like search volume, keyword difficulty, and competitive insights to fuel your SEO strategy.
-- **Site Audit**: The Site Audit Tool scans your website for over 130 technical and SEO issues—such as broken links, slow pages, or missing metadata—offering clear recommendations to boost performance.
+- **Site Audit**: The Site Audit Tool scans your website for over 130 technical and SEO issues, such as broken links, slow pages, or missing metadata, offering clear recommendations to boost performance.
 - **Backlink Analysis**: Track and analyze your backlink profile, identify toxic links, and spy on competitors’ backlinks to strengthen your site’s authority.
 - **Competitor Analysis**: Gain a competitive edge by analyzing rivals’ keyword rankings, traffic sources, and backlink strategies to uncover opportunities for growth.
 - **On-Page SEO**: The On-Page SEO Checker delivers tailored recommendations to optimize individual pages for better rankings and user experience.
@@ -122,4 +122,12 @@ Whether you’re a small business or a seasoned agency, its versatile tools make
 | Great for SEO, PPC, social media, and content strategy              |                             |
 
 ## Conclusion - Why Semrush Is the Best SEO Marketing Tool?
+
+![Semrush Customer support](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/semrush/semrush%20customer%20review.png)
+
+SEMrush is an exceptional tool for anyone serious about digital marketing. With its comprehensive features like keyword research, site audits, and competitor analysis, SEMrush provides the insights needed to improve your SEO and grow your online presence. 
+
+While its pricing may be a bit high for small businesses, the value it offers in terms of data and performance optimization is undeniable. The free trial is a great way to explore its features, and if you're committed to improving your marketing strategy, SEMrush is definitely worth the investment.
+
+
 

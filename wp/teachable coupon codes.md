@@ -38,6 +38,9 @@ teaching journey.
 Teachable is an all-in-one online course platform that allows individuals and businesses to create, market, and sell courses effortlessly. 
 Founded with the mission to empower creators, Teachable provides the tools needed to build an online school without requiring any technical or coding skills.
 
+![Teachable Review](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/teachable/teachable%20review.png)
+
+
 ### What Does Teachable Do?
 
 Teachable offers a comprehensive suite of features that simplify the entire process of online teaching:
@@ -54,7 +57,7 @@ Teachable offers a comprehensive suite of features that simplify the entire proc
 
 - **Hosting & Security:** All course content is securely hosted on Teachable’s servers with unlimited bandwidth, ensuring reliable and fast access for students globally.
 
-In essence, Teachable acts as a powerful, user-friendly platform that enables anyone—from individual educators to large businesses—to launch and scale their 
+In essence, Teachable acts as a powerful, user-friendly platform that enables anyone, from individual educators to large businesses, to launch and scale their 
 online course business with ease.
 
 
@@ -63,6 +66,9 @@ online course business with ease.
 ## How Do Teachable Coupons Help You Save? 💸
 
 Teachable coupons are promotional codes that give you discounts on subscriptions or course purchases. Here’s how they help you save:
+
+![teachable coupon](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/teachable/teachable%20coupon.png)
+
 
 - **Lower Subscription Fees:** Apply coupons to reduce your monthly or annual plan cost.
 - **Unlock Premium Features:** Get access to advanced features at discounted rates.
@@ -89,6 +95,9 @@ Follow these simple steps to maximize savings:
 
 Teachable offers four main pricing plans to fit different user needs:
 
+![Teachable pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/teachable/teachable%20pricing.png)
+
+
 | Plan           | Monthly Price (billed annually) | Monthly Price (billed monthly) | Key Features                                                    |
 |----------------|---------------------------------|-------------------------------|----------------------------------------------------------------|
 | Free           | $0                              | $0                            | Unlimited courses & students, basic quizzes, integrated payments |
@@ -103,6 +112,8 @@ Teachable offers four main pricing plans to fit different user needs:
 ## Key Features of Teachable ✨
 
 Teachable offers a comprehensive set of features designed to make course creation, marketing, and sales smooth and efficient for creators of all levels. Here’s a detailed look at what you get with Teachable:
+
+![teachable account](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/teachable/create%20teachable%20account.png)
 
 ## Detailed Features of Teachable ✨
 

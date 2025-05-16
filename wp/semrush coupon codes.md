@@ -104,7 +104,7 @@ Schedule posts, track performance, and manage multiple social profiles within SE
 ### 8. **Reporting & Analytics**  
 Create custom branded reports with detailed SEO, PPC, and social media metrics for clients or internal use.
 
-![Semrush free trial](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/semrush/semrush%free%20trial.png)
+![Semrush free trial](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/semrush/semrush%20free%20trial.png)
 
 
 ---

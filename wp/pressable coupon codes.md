@@ -106,6 +106,23 @@ Annual billing does not currently provide discounts, but keep an eye on coupon o
 
 ---
 
+## 🎉 Pressable Coupon & Offers
+
+[![Enjoy 2 Months Free with Annual Billing](https://img.shields.io/badge/Enjoy%202%20Months%20Free%20with%20Annual%20Billing-brightgreen?style=for-the-badge)](https://pressable.com/)
+
+[![Start Your Pressable Journey at $45/month](https://img.shields.io/badge/Start%20Your%20Pressable%20Journey%20at%20%2445%2Fmonth-blue?style=for-the-badge)](https://pressable.com/)
+
+[![50% Off for Your First 3 Months](https://img.shields.io/badge/50%25%20Off%20First%203%20Months-yellow?style=for-the-badge)](https://pressable.com/)
+
+[![50% Discount on First Month](https://img.shields.io/badge/50%25%20Discount%20First%20Month-red?style=for-the-badge)](https://pressable.com/)
+
+[![30-Day Full Refund Guarantee](https://img.shields.io/badge/30-Day%20Full%20Refund%20Guarantee-purple?style=for-the-badge)](https://pressable.com/)
+
+[![50k Visits for Only $45/Month](https://img.shields.io/badge/50k%20Visits%20for%20%2445%2FMonth-orange?style=for-the-badge)](https://pressable.com/)
+
+[![Annual Plan: 50k Visits at $37.50/Month](https://img.shields.io/badge/Annual%20Plan%3A%2050k%20Visits%20at%20%2437.50%2FMonth-green?style=for-the-badge)](https://pressable.com/)
+
+
 ## Detailed Features of Pressable and Their Benefits 🛠️✨
 
 ### 1. Managed WordPress Hosting  

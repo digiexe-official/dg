@@ -43,6 +43,9 @@ These codes are usually entered during the checkout process to apply discounts.
 
 Using SamCart coupon codes is straightforward:
 
+![Samcart Review](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/samcart/samcart%20pricing.png)
+
+
 1. Select your [SamCart](https://www.crowdmob.com/recommends/samcart/) plan on the official website.  
 2. At checkout, find the “Apply Coupon” box.  
 3. Enter your valid SamCart coupon code.  
@@ -56,7 +59,10 @@ Coupon codes can offer percentage discounts, fixed dollar reductions, or special
 
 Finding legit **SamCart coupon codes** can be tricky, but these tips will help you:
 
-- **[Official SamCart website](https://www.crowdmob.com/recommends/samcart/) & newsletters:** Sign up for their newsletter to get exclusive deals.  
+- **[Official SamCart website](https://www.crowdmob.com/recommends/samcart/) & newsletters:** Sign up for their newsletter to get exclusive deals.
+- 
+![Samcart Coupon](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/samcart/samcart%20coupon%20codes.png)
+  
 - **Verified coupon sites:** Check trusted coupon aggregators known for updating valid codes.  
 - **Affiliate blogs and influencers:** Many affiliates share working codes with their audiences.  
 - **Social media & forums:** Engage with the community for insider discount announcements.
@@ -94,6 +100,9 @@ Using coupons means you get all these benefits for less, freeing up your budget 
 
 SamCart’s pricing is based on your business revenue and offers all features within a scalable model:
 
+![Samcart Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/samcart/samcart%20review.png)
+
+
 | Monthly Revenue Range | Monthly Price | Annual Price (25% off) |
 |-----------------------|---------------|-----------------------|
 | Up to $3,000          | $79           | $59/month             |
@@ -106,6 +115,8 @@ This means you only pay more as your business grows. All plans include SamCart�
 ---
 
 ## Detailed Features of SamCart and Their Benefits 🛠️✨
+
+![Samcart Features](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/samcart/samcart%20features.png)
 
 ### 1. One-Click Upsells 🔄  
 **Feature:** After a customer completes their purchase, SamCart lets you offer additional products or upgrades with just one click—no need to re-enter payment details.  

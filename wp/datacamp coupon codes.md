@@ -34,6 +34,8 @@ Whether you’re a beginner or an experienced professional, this blog will give 
 **Datacamp coupon codes** are promotional codes that grant discounts or special offers on subscription plans or courses. 
 Applying these codes during checkout reduces your payment amount, helping you save money.
 
+![Datacamp Review](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/datacamp/datacamp%20review.png)
+
 ### How to use Datacamp coupon codes?
 
 1. Visit the official [datacamp website](https://www.crowdmob.com/recommends/datacamp/).  
@@ -49,6 +51,9 @@ Using these coupons is simple, fast, and ensures you don’t pay full price.
 ## Datacamp Pricing Plans for 2025 💵
 
 Datacamp offers flexible plans tailored to learners and teams:
+
+![Datacamp Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/datacamp/datacamp%20pricing.png)
+
 
 | Plan           | Monthly Price (Billed Annually) | Features                                              |
 |----------------|---------------------------------|-------------------------------------------------------|
@@ -100,6 +105,8 @@ Coupons make this world-class learning affordable and accessible.
 ---
 
 ## Detailed Features of datacamp 🛠️
+
+![Datacamp features](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/datacamp/datacamp%20features.png)
 
 ### 1. Interactive Coding Environment  
 Practice coding inside your browser with instant feedback. No setup required.  
@@ -173,5 +180,7 @@ Using **Datacamp coupon codes** is the best way to access premium data science e
 expert support, DataCamp helps you gain valuable skills for your career. Don’t miss seasonal sales or exclusive coupon codes to maximize your savings.
 
 Start your learning journey today at [datacamp](https://www.crowdmob.com/recommends/datacamp/) and apply the latest coupon codes to unlock your full potential!
+
+[![Activate Datacamp GitHub Student Offer](https://img.shields.io/badge/Activate%20GitHub%20Student%20Offer-blue?style=for-the-badge&logo=github)](https://www.datacamp.com/github-students)
 
 ---

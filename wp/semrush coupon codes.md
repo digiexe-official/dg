@@ -68,9 +68,9 @@ SEMrush offers three main subscription plans catering to different user levels:
 
 | Plan          | Monthly Price (Billed Annually) | Monthly Price (Billed Monthly) | Key Features                                                  |
 |---------------|---------------------------------|-------------------------------|---------------------------------------------------------------|
-| **Pro**       | $139.95                         | $199.95                       | Up to 500 keywords, 3 projects, SEO audits, content marketing |
-| **Guru**      | $249.95                         | $299.95                       | Pro plan features + 15 projects, content marketing platform   |
-| **Business**  | $499.95                         | $599.95                       | Guru features + 40 projects, API access, white-label reports  |
+| **Pro**       | $117.33                         | $139.95                       | Up to 500 keywords, 3 projects, SEO audits, content marketing |
+| **Guru**      | $208.33                         | $249.95                       | Pro plan features + 15 projects, content marketing platform   |
+| **Business**  | $416.66                        | $499.95                       | Guru features + 40 projects, API access, white-label reports  |
 
 *All plans include access to SEMrush’s massive keyword database, competitive analysis tools, backlink audits, and more.*
 

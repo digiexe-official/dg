@@ -67,8 +67,8 @@ Leadpages offers three main pricing tiers tailored to different needs:
 | Plan        | Monthly Price (Billed Annually) | Key Features                                          |
 |-------------|---------------------------------|-------------------------------------------------------|
 | **Standard**| $37                             | Drag-and-drop builder, unlimited landing pages, pop-ups, alert bars |
-| **Pro**     | $79                             | Everything in Standard + A/B testing, email trigger links, online sales tools |
-| **Advanced**| Custom Pricing                  | All Pro features + advanced integrations, sub-accounts, priority support |
+| **Pro**     | $74                             | Everything in Standard + A/B testing, email trigger links, online sales tools |
+| **Conversion**| $697                  | All Pro features + advanced integrations, sub-accounts, priority support |
 
 *Monthly billing is available but costs more monthly.*
 

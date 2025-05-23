@@ -73,11 +73,12 @@ Follow these simple steps to maximize your savings:
 
 Jungle Scout offers flexible pricing to cater to sellers of all sizes:
 
-| Plan            | Monthly Price (Billed Annually) | Monthly Price (Billed Monthly) | Features                                                         |
-|-----------------|---------------------------------|-------------------------------|------------------------------------------------------------------|
-| **Basic**       | $39                             | $49                           | Product database, supplier database, sales analytics             |
-| **Suite**       | $69                             | $89                           | Everything in Basic + keyword scout, listing builder, and more   |
-| **Professional**| $129                            | $159                          | All Suite features + multiple user seats, advanced reporting     |
+| Plan            | Monthly Price (Billed Annually) | Features                                                         |
+|-----------------|---------------------------------|------------------------------------------------------------------|
+| **Starter**       | $29                            | Product database, supplier database, sales analytics             |
+| **Growth Accelerator**       | $49                             | Everything in Basic + keyword scout, listing builder, and more   |
+| **Brand Owner+CI**| $129                            |  All Suite features + multiple user seats, advanced reporting     |
+| **Cobalt**| Custom                            |  All Custom features      |
 
 *Annual plans save you money with a lower monthly rate and include access to all core tools.*
 

@@ -52,7 +52,7 @@ Using these coupons is simple, fast, and ensures you don’t pay full price.
 
 Datacamp offers flexible plans tailored to learners and teams:
 
-![Datacamp Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/datacamp/datacamp%20pricing.png)
+![Datacamp Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/datacamp/datacamp%20pricing%20.png)
 
 
 | Plan           | Monthly Price (Billed Annually) | Features                                              |

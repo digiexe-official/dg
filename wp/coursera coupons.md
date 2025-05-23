@@ -83,7 +83,7 @@ Utilizing **Coursera Coupon Codes** can:
 
 Coursera offers various pricing options to cater to different learning needs:
 
-![Coursera Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/coursera/coursera%20pricing.png)
+![Coursera Pricing](https://raw.githubusercontent.com/digiexe-official/dg/refs/heads/main/imgs/coursera/coursera%20degree.png)
 
 
 ### Individual Plans

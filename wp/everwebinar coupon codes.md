@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Everwbinar Coupon Codes 2025- 30 Days Free Trial + 3 Months Free Access"
+title: "Everwebinar Coupon Codes 2025- 30 Days Free Trial + 3 Months Free Access"
 description: "Grab Best Discounts on Everwebinar- Get 3 Months Free Access to Biennial Plan on Everwebinar"
 date: 2025-05-24
 author: "digiexe-official Team"
@@ -94,8 +94,9 @@ This combination accelerates revenue growth while minimizing costs.
 
 | Plan              | Price (Billed Monthly) | Key Features                                          |
 |-------------------|-----------------------|------------------------------------------------------|
-| **Standard Plan** | $99/month             | Unlimited automated webinars, 8,000 attendees/month, email integration, live chat, analytics |
-| **Professional Plan** | $199/month            | Everything in Standard plus increased attendee capacity, priority support, advanced reporting |
+| **Monthly Plan** | $99/month             | Unlimited automated webinars, 8,000 attendees/month, email integration, live chat, analytics |
+| **Annual Plan** | $499/month            | Everything in Standard plus increased attendee capacity, priority support, advanced reporting |
+| **Biennial Plan** | $874/month            | Renew every 2 years and get 3 Months Free Access |
 
 Note: Annual plans and lifetime deals are occasionally available during promotions.
 

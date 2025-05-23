@@ -77,19 +77,11 @@ saving on costs helps you reach profitability faster.
 
 | Plan               | Monthly Price       | Key Features                                                       |
 |--------------------|---------------------|-------------------------------------------------------------------|
-| **Basic Shopify**  | $39/month           | Online store, unlimited products, 2 staff accounts, 24/7 support   |
-| **Shopify**        | $105/month          | Everything in Basic + 5 staff accounts, professional reports       |
-| **Advanced Shopify** | $399/month          | Everything in Shopify + 15 staff accounts, advanced report builder |
+| **Yealry Shopify**  | $2500/yr           | Online store, unlimited products, 2 staff accounts, 24/7 support   |
+| **3 year Shopify Plan**        | $2300/month          | Everything in Basic + 5 staff accounts, professional reports       |
 | **Shopify Plus**   | Custom pricing      | Enterprise-grade features, dedicated support, high volume handling |
 
 ---
-
-Shopify’s tiered pricing offers flexibility for businesses of all sizes:
-
-- **Basic Shopify ($39/month):** Ideal for startups with all essential eCommerce tools and 24/7 support.
-- **Shopify ($105/month):** Adds professional reports and up to 5 staff accounts for growing businesses.
-- **Advanced Shopify ($399/month):** Best for scaling operations with advanced reporting and more staff accounts.
-- **Shopify Plus (Custom pricing):** Enterprise-level features and dedicated support for high-volume merchants.
 
 Each plan includes hosting, security, and a customizable online storefront.
 

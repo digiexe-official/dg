@@ -72,9 +72,10 @@ Deadline Funnel offers flexible pricing to fit various business sizes and market
 
 | Plan          | Price (Monthly) | Price (Annual) | Features Included                                          |
 |---------------|-----------------|----------------|------------------------------------------------------------|
-| **Starter**   | $49             | $468 (2 months free) | Up to 1,000 leads, basic countdown timers, email integration  |
-| **Growth**    | $99             | $948 (2 months free) | Up to 5,000 leads, advanced triggers, multi-step funnels  |
-| **Professional** | $199           | $1,908 (2 months free) | Unlimited leads, all features, priority support           |
+| **Starter**   | $39             | $468 (2 months free) | Up to 1,000 leads, basic countdown timers, email integration  |
+| **Create**    | $79             | $948 (2 months free) | Up to 5,000 leads, advanced triggers, multi-step funnels  |
+| **Accelerate** | $104           | $1788 (2 months free) |Up to 5,000 leads, all features, priority support           |
+| **Scale** | $159           | $1,908 (2 months free) | Up to 5,0000 leads, all features, 5 client accounts           |
 
 *Annual billing saves you two months of payment, and all plans come with a 14-day money-back guarantee.*
 

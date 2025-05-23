@@ -57,9 +57,9 @@ Datacamp offers flexible plans tailored to learners and teams:
 
 | Plan           | Monthly Price (Billed Annually) | Features                                              |
 |----------------|---------------------------------|-------------------------------------------------------|
-| **Individual** | $25                             | Access to all courses, skill tracks, projects, and mobile app |
-| **Premium**    | $33.25                          | Everything in Individual + Certification practice, interview prep, and priority support |
-| **Teams**      | Custom                          | Multi-user management, analytics, and team learning tools |
+| **Individual Plan** | $11/mo                            | Access to all courses, skill tracks, projects, and mobile app |
+| **Student Plan**    | $128/year                          | Everything in Individual + Certification practice, interview prep, and priority support |
+| **Teams**      | Custom ($11/mo)                         | Multi-user management, analytics, and team learning tools |
 
 Monthly billing is also available, but at a higher rate.
 

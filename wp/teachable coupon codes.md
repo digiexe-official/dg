@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Teachable Coupon Codes 2025- Transform Online Learning Journey- Grab 55% Off Now"
-description: "Check out our CartFlows review to find out how this funnel builder enhances your WooCommerce checkout process."
+title: "Teachable Coupon Codes 2025- Transform Online Learning Journey- Grab 20% Off Now"
+description: "Check out our Teachable review to get 20% OFF Coupon Codes + Free Trial 2025"
 date: 2025-05-15
 author: "digiexe-official Team"
 robots: index, follow

@@ -308,6 +308,12 @@ Email support plus a comprehensive help center.
 
 ---
 
+Quick Links
+
+- [Samcart Deals & Discounts](https://digiexe-official.github.io/dg/samcart-coupon-codes/)
+- [Kartra Coupon Codes](https://digiexe-official.github.io/kartra-coupons/)
+- [Cloudways Coupons](https://digiexe-official.github.io/dg/cloudways-coupon-codes/)
+
 ## 🎉 Conclusion
 
 Using **ThriveCart Coupon Codes** can help you save big on a powerful, feature-rich platform. From finding the best deals to taking advantage of seasonal offers, ThriveCart ensures maximum value for online sellers.

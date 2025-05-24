@@ -82,7 +82,7 @@ On **Black Friday**, Gohighlevel offers **up to 50% off** for the first 3 months
 |--------------|---------|---------|-----------------------------------------------------------------------------|
 | Starter      | $97     | $970    | Basic CRM, email & SMS, funnel builder                                     |
 | Unlimited    | $297    | $2,970  | Everything in Starter + Unlimited sub-accounts, API access                 |
-| Pro          | $497    | $4,970  | Everything in Unlimited + White-label, SaaS capabilities                   |
+
 
 💡 *Annual plans offer ~20% savings over monthly rates*  
 

@@ -99,10 +99,10 @@ This can save you hundreds of dollars if you’re buying for multiple websites.
 
 | Plan           | Price (Annual) | Websites Included | Key Features                                         |
 |----------------|----------------|-------------------|-----------------------------------------------------|
-| **Essential**  | $59            | 1                 | Basic widgets, templates, theme builder             |
-| **Expert**     | $99            | 25                | Everything in Essential + Pro widgets, support      |
-| **Studio**     | $199           | 100               | Team collaboration, role manager, premium support   |
-| **Agency**     | $399           | 1000              | All Studio features + VIP support & integrations     |
+| **Essential**  | $3.99/mo            | 1                 | Basic widgets, templates, theme builder             |
+| **Advanced Solo**     | $5.99/mo            | 25                | Everything in Essential + Pro widgets, support      |
+| **Advanced**     | $6.99/mo           | 100               | Team collaboration, role manager, premium support   |
+| **Expert**     | $13.99/mo           | 1000              | All Studio features + VIP support & integrations     |
 
 *Note:* Monthly billing is available but costs more overall.
 
@@ -110,6 +110,124 @@ This can save you hundreds of dollars if you’re buying for multiple websites.
 
 ## Top Elementor Features and Benefits
 
+### 🖌️ Drag-and-Drop Visual Editor  
+**What it does:**  
+Allows you to build pages by simply dragging and dropping elements like text, images, and buttons.
+
+**Benefits:**  
+- No coding skills required  
+- Real-time editing with instant previews  
+- Flexible design options for total creative control  
+
+---
+
+### 📱 Responsive Design Controls  
+**What it does:**  
+Automatically adjusts your website layout for desktops, tablets, and mobiles.
+
+**Benefits:**  
+- Ensures your site looks great on all devices  
+- Customize styles per device type  
+- Improves user experience and SEO rankings  
+
+---
+
+### 📚 Huge Template Library  
+**What it does:**  
+Offers hundreds of pre-built website templates and page blocks.
+
+**Benefits:**  
+- Jumpstart your project with professionally designed layouts  
+- Saves time building pages from scratch  
+- Easily customize templates to match your brand  
+
+---
+
+### ⚙️ Theme Builder  
+**What it does:**  
+Enables you to design your entire website including headers, footers, single post templates, and archives.
+
+**Benefits:**  
+- Full control over every part of your site’s design  
+- Build consistent brand identity  
+- No need for a separate theme or coding  
+
+---
+
+### 🔌 Widgets and Integrations  
+**What it does:**  
+Includes over 90 widgets like forms, sliders, buttons, and WooCommerce tools.
+
+**Benefits:**  
+- Add advanced functionality easily  
+- Integrates with popular WordPress plugins  
+- Extend site capabilities without extra plugins  
+
+---
+
+### 🛠️ Custom CSS & Code Integration  
+**What it does:**  
+Allows advanced users to add custom CSS, JavaScript, and HTML.
+
+**Benefits:**  
+- Fine-tune design beyond built-in options  
+- Add unique animations or interactive elements  
+- Integrate third-party services or tracking codes  
+
+---
+
+### 🚀 Performance Optimization  
+**What it does:**  
+Built to produce clean code and fast-loading pages.
+
+**Benefits:**  
+- Enhances page speed and user experience  
+- Better search engine rankings  
+- Mobile-friendly and lightweight designs  
+
+---
+
+### 🌍 Multilingual & RTL Support  
+**What it does:**  
+Supports multiple languages and right-to-left text.
+
+**Benefits:**  
+- Build websites for global audiences  
+- Easily translate content or switch languages  
+- Supports international SEO  
+
+---
+
+### 🛒 WooCommerce Builder  
+**What it does:**  
+Customize your online store with product pages, cart, checkout, and more.
+
+**Benefits:**  
+- Full design control over WooCommerce store  
+- Create a seamless shopping experience  
+- Boost sales with custom product layouts  
+
+---
+
+### 💡 Popup Builder  
+**What it does:**  
+Design and trigger popups for email capture, promotions, or announcements.
+
+**Benefits:**  
+- Increase conversions with targeted popups  
+- Use advanced triggers like exit intent or scroll depth  
+- Integrate with marketing tools and CRMs  
+
+---
+
+### 🔄 Revision History & Autosave  
+**What it does:**  
+Tracks changes and saves your work automatically.
+
+**Benefits:**  
+- Easily undo or redo edits  
+- Protects your work against data loss  
+- Allows experimentation without risk  
 
 
 ---

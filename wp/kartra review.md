@@ -27,12 +27,12 @@ who want an integrated solution to automate and scale their sales.
 
 ## 💰 Kartra Pricing Plans (2025)
 
-| Plan Name     | Price/Month (Billed Annually) | Leads Limit | Emails/Month | Landing Pages | Products | Helpdesks | Support Level          |
-|---------------|-------------------------------|-------------|--------------|---------------|----------|-----------|------------------------|
-| Starter       | $99                           | 2,500       | 15,000       | 100           | 20       | 1         | 24/7 Chat & Email      |
-| Silver        | $199                          | 12,500      | 125,000      | 250           | 125      | 5         | 24/7 Chat & Email      |
-| Gold          | $299                          | 25,000      | 250,000      | 500           | 250      | 10        | Priority 24/7 Support  |
-| Platinum      | $499                          | 50,000      | 500,000      | 1,000         | 500      | 25        | Dedicated Support Team |
+| Plan Name     | Price/Month (Billed Montly) | Price/Month (Billed Annually) | Leads Limit | Emails/Month | Landing Pages | Products | Helpdesks | Support Level          |
+|---------------|-------------------------------|-------------------------------|-------------|--------------|---------------|----------|-----------|------------------------|
+| Starter       | $99                          | $99                           | 2,500       | 15,000       | 100           | 20       | 1         | 24/7 Chat & Email      |
+| Growth        | $229                          | $189                          | 12,500      | 125,000      | 250           | 125      | 5         | 24/7 Chat & Email      |
+| Professional          | $549                    | $429                                | 25,000      | 250,000      | 500           | 250      | 10        | Priority 24/7 Support  |
+
 
 *Prices and features are subject to change. Please check [Kartra Pricing](https://www.crowdmob.com/recommends/kartra/) for the latest.*
 

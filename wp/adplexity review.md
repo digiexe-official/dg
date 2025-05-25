@@ -26,13 +26,14 @@ With real-time data and powerful filtering, Adplexity lets you find profitable a
 
 ## 💰 Adplexity Pricing Plans (2025)
 
-| Plan Name           | Price/Month (Billed Annually) | Traffic Sources Covered                      | Key Features                                   |
+| Plan Name           | Price/Month (Billed Annually) With Discount | Traffic Sources Covered                      | Key Features                                   |
 |---------------------|-------------------------------|----------------------------------------------|------------------------------------------------|
-| Native              | $149                          | Native Ads (Taboola, Outbrain, etc.)         | Ad creative spy, landing pages, detailed stats|
-| Push                | $149                          | Push Notification Ads                         | Ad spy, device targeting, geo targeting        |
+| Desktop              | $149                          | Native Ads (Taboola, Outbrain, etc.)         | Ad creative spy, landing pages, detailed stats|
+| Push                | $129                          | Push Notification Ads                         | Ad spy, device targeting, geo targeting        |
 | Mobile              | $149                          | Mobile Ads (In-app, mobile web)               | Device targeting, ad funnel insights            |
 | Adult               | $149                          | Adult Traffic Ads                             | Mature content ads, funnel analysis              |
-| All-in-One          | $349                          | All Traffic Sources Above                     | Full access to all sources, advanced filters     |
+| Native         | $169                         | All Traffic Sources Above                     | Full access to all sources, advanced filters     |
+
 
 *Note:* Pricing may change. Check [Adplexity Pricing](https://www.crowdmob.com/recommends/adplexity/) for current details.
 

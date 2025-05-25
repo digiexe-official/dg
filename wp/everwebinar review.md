@@ -116,6 +116,8 @@ Ensure attendees can watch webinars on any device.
 | Detailed analytics and reporting        |                                            |
 
 ---
+[![Get Started with Everwebinar](https://img.shields.io/badge/Get%20Started%20with%20Everwebinar-Click%20Here-brightgreen)](https://crowdmob.com/recommends/everwebinar/)
+
 
 ## ⚙️ Performance & Usability of Everwebinar
 
@@ -157,6 +159,8 @@ Your webinar runs automatically according to the schedule.
 Use analytics to improve future webinars and conversion rates.
 
 ---
+[![Get Started with Everwebinar](https://img.shields.io/badge/Get%20Started%20with%20Everwebinar-Click%20Here-brightgreen)](https://crowdmob.com/recommends/everwebinar/)
+
 
 ## 🔝 3 Best Alternatives to Everwebinar
 

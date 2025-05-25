@@ -26,11 +26,12 @@ It’s ideal for people who want to focus on content creation and customer relat
 
 | Plan Name         | Price (Monthly, billed annually) | Products | Marketing Emails | Landing Pages | Support Level      |
 |-------------------|---------------------------------|----------|------------------|---------------|--------------------|
-| Basic             | $149                            | 3        | 15,000           | Unlimited     | 24/7 Chat & Email  |
-| Growth            | $199                            | 15       | 25,000           | Unlimited     | 24/7 Chat & Email  |
-| Pro               | $399                            | 100      | 100,000          | Unlimited     | Priority Support   |
+| Kickstarter             | $71                            | 3        | 15,000           | Unlimited     | 24/7 Chat & Email  |
+| Basic            | $119                            | 15       | 25,000           | Unlimited     | 24/7 Chat & Email  |
+| Growth               | $159                            | 100      | 100,000          | Unlimited     | Priority Support   |
+| Pro               | $319                            | 100      | 100,000          | Unlimited     | Priority Support   |
 
-*Note:* Monthly billing options are available at a higher cost. Prices are subject to change; always check Kajabi’s [official pricing page](https://kajabi.com/pricing) for the latest details.
+*Note:* Monthly billing options are available at a higher cost. Prices are subject to change; always check Kajabi’s [official pricing page](https://www.crowdmob.com/recommends/kajabi/) for the latest details.
 
 ---
 [![Get Started with Kajabi](https://img.shields.io/badge/Get%20Started%20with%20Kajabi-Click%20Here-brightgreen)](https://www.crowdmob.com/recommends/kajabi/)

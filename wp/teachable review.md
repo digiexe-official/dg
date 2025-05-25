@@ -36,6 +36,8 @@ Ideal for educators, consultants, and creators, Teachable allows users to focus 
 *Note:* Monthly billing is also available at slightly higher prices. Visit [Teachable Pricing](https://crowdmob.com/recommends/teachable/) for latest details.
 
 ---
+[![Get Started with Teachable](https://img.shields.io/badge/Get%20Started%20with%20Teachable-Click%20Here-brightgreen)](https://crowdmob.com/recommends/teachable/)
+
 
 ## ✨ My Personal Experience Using Teachable and Why I Recommend It
 
@@ -120,6 +122,8 @@ Connect with tools like Zapier, Google Analytics, and Mailchimp.
 | Responsive customer support                 | Some features require third-party integrations|
 
 ---
+[![Get Started with Teachable](https://img.shields.io/badge/Get%20Started%20with%20Teachable-Click%20Here-brightgreen)](https://crowdmob.com/recommends/teachable/)
+
 
 ## ⚙️ Performance & Usability of Teachable
 

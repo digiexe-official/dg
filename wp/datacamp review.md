@@ -25,14 +25,21 @@ With Datacamp, users gain practical skills by coding directly in their browsers,
 
 ---
 
-## 💰 Datacamp Pricing Plans (2025)
+## 💰 Datacamp Learn Pricing Plans (2025)
 
-| Plan Name        | Price (Annual) | Price (Monthly) | Key Features                                      |
-|------------------|----------------|-----------------|--------------------------------------------------|
-| Free             | $0             | $0              | Access to limited courses, basic skill tracks    |
-| Standard         | $300           | $39/month       | Full course library, skill & career tracks       |
-| Premium          | $480           | $59/month       | Standard + projects, assessments, certifications |
-| Teams (per user) | Custom Pricing | Custom Pricing  | Collaboration tools, analytics, priority support |
+| Plan Name        | Price (Annual) | Key Features                                      |
+|------------------|----------------|-------------------------------------------------|
+| Basic             | $0             |  Access to limited courses, basic skill tracks    |
+| Premium          | $11/mo  per user          |  Standard + projects, assessments, certifications |
+| Teams (per user) |  $11/mo  per user g | Collaboration tools, analytics, priority support |
+
+## 💰 Datacamp Datalab Pricing Plans (2025)
+
+| Plan Name        | Price (Annual) | Key Features                                      |
+|------------------|----------------|-------------------------------------------------|
+| Standard             | $0             |  Access to limited courses, basic skill tracks    |
+| Premium          | $5/mo  per user          |  Standard + projects, assessments, certifications |
+| Teams (per user) |  $10/mo  per user g | Collaboration tools, analytics, priority support |
 
 *Note:* Prices may vary. Visit [Datacamp Pricing](https://www.crowdmob.com/recommends/datacamp/) for the latest updates.
 

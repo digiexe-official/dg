@@ -32,6 +32,9 @@ ClickMagick offers three pricing tiers to cater to different needs:
 
 ---
 
+[![🚀 Start Your 14-Day Free Trial with ClickMagick](https://img.shields.io/badge/🚀%20Start%20Your%2014--Day%20Free%20Trial%20with%20ClickMagick-brightgreen?style=for-the-badge)](https://www.crowdmob.com/recommends/clickmagick/)
+
+
 ## 🧪 My Personal Experience with ClickMagick
 
 As a digital marketer, I've used various tracking tools, but ClickMagick stands out for its accuracy and ease of use. 
@@ -143,6 +146,9 @@ It lets you understand the true impact of your marketing channels and optimize a
 | Comprehensive funnel and link tracking         | Requires setup and configuration            |
 
 ---
+
+[![🚀 Start Your 14-Day Free Trial with ClickMagick](https://img.shields.io/badge/🚀%20Start%20Your%2014--Day%20Free%20Trial%20with%20ClickMagick-brightgreen?style=for-the-badge)](https://www.crowdmob.com/recommends/clickmagick/)
+
 
 ## 🖥️ Performance & Usability
 

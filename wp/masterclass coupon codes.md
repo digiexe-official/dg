@@ -5,7 +5,7 @@ description: "Discover verified Masterclass coupon codes to get huge savings on 
 date: 2025-05-15
 author: "digiexe-official Team"
 robots: index, follow
-permalink: /teachable-coupon-codes/
+permalink: /masterclass-coupon-codes/
 ---
 
 # MasterClass Coupons: How to Save on Your Next Course Purchase?

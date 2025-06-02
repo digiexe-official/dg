@@ -19,6 +19,8 @@ top alternatives to help you decide if it’s the perfect fit for your business.
 
 Let’s explore what makes Shopify shine! 🚀
 
+[![Get Started with Shopify Today 🚀](https://img.shields.io/badge/Get_Started_with_Shopify-Start_Now-96bf48?style=for-the-badge&logo=shopify&logoColor=white)](https://crowdmob.com/recommends/shopify/)
+
 ---
 
 ## What is Shopify and Who is it For?
@@ -49,7 +51,7 @@ Here’s a quick overview of Shopify’s pricing tiers:
 
 *Note:* Shopify charges transaction fees unless you use Shopify Payments.
 
-[Get Started with Shopify 🚀](https://www.shopify.com/pricing)
+[![Get Started with Shopify Today 🚀](https://img.shields.io/badge/Get_Started_with_Shopify-Start_Now-96bf48?style=for-the-badge&logo=shopify&logoColor=white)](https://crowdmob.com/recommends/shopify/)
 
 ---
 
@@ -227,6 +229,12 @@ There’s no product limit, even on lower-tier plans.
 
 ---
 
+Quick Links
+
+- [Shopify coupon codes](https://digiexe-official.github.io/dg/shopify-discount-codes/)
+- [Publisher Rocket coupons](https://digiexe-official.github.io/dg/publisher-rocket-coupon-codes/)
+- [Deadline Funnel coupons](https://digiexe-official.github.io/dg/deadline-funnel-coupon-codes/)
+
 ## Conclusion: Is Shopify the Right Choice for You? ✅
 
 Shopify is a powerful, versatile, and user-friendly platform perfect for anyone wanting to start or grow an online store. 
@@ -237,6 +245,6 @@ If you want a seamless way to build a professional eCommerce site without coding
 
 Ready to launch your online store?  
 
-[Get Started with Shopify Today 🚀](https://www.shopify.com/pricing)
+[![Get Started with Shopify Today 🚀](https://img.shields.io/badge/Get_Started_with_Shopify-Start_Now-96bf48?style=for-the-badge&logo=shopify&logoColor=white)](https://crowdmob.com/recommends/shopify/)
 
 ---
